@@ -4,7 +4,7 @@ A Gmail add-on that integrates with ChatGPT to provide AI-powered email analysis
 
 ## Features
 
-- **Email Thread Analysis**: Get AI-powered insights and summaries of email conversations
+- **Email Thread Analysis**: Get AI-powered insights & summaries of email conversations
 - **Interactive Chat**: Ask questions about email content and get contextual answers
 - **Smart Draft Generation**: Generate email responses with customizable tone and content
 - **Compose Assistant**: Get help drafting new emails from scratch
